@@ -1,7 +1,7 @@
 # Hi there
 ## Welcome to my GitHub
 
-I'm a 9 years developer. During those years I've worked with:
+I'm a 9 years programmer / software engineer. During those years I've worked with:
 - Game development and systems applied to games
 - Real-time embedded software
 - Low-latency real-time financial software to the stock market.
