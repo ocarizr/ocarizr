@@ -2,9 +2,9 @@
 ## Welcome to my GitHub
 
 I'm a 9 years programmer / software engineer. During those years I've worked with:
-- Game development and systems applied to games
-- Real-time embedded software
-- Low-latency real-time financial software to the stock market.
+- Design and development of systems applied to games (gameplay, UI, animation, etc.)
+- Real-time embedded custom software to run in custom hardware.
+- Low-latency real-time financial software to the trading market.
 
 <b>You can reach me here:</b>
 
