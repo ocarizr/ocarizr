@@ -1,8 +1,8 @@
 # Hi there
 ## Welcome to my GitHub
 
-I'm a 9 years programmer / software engineer. During those years I've worked with:
-- Design and development of systems applied to games (gameplay, UI, animation, etc.)
+I'm a programmer / software engineer with 10 years of experience. During those years I've worked with:
+- Design and development of systems applied to games (gameplay, UI, animation, networking, etc.)
 - Real-time embedded custom software to run in custom hardware.
 - Low-latency real-time financial software to the trading market.
 
