@@ -1,10 +1,10 @@
 # Hi there
 ## Welcome to my GitHub
 
-I'm a programmer / software engineer with 10 years of experience. During those years I've worked with:
+I'm a programmer/software engineer with 13 years of experience. During those years I've worked with:
 - Design and development of systems applied to games (gameplay, UI, animation, networking, etc.)
 - Real-time embedded custom software to run in custom hardware.
-- Low-latency real-time financial software to the trading market.
+- Low-latency real-time financial software for the trading market.
 
 <b>You can reach me here:</b>
 
